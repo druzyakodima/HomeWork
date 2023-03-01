@@ -1,6 +1,7 @@
 package com.example.person.task2;
 
 public class Circle implements Shapes {
+
     @Override
     public void rotate() {
         System.out.println("The circle rotates");
